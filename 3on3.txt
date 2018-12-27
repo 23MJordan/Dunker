@@ -1,8 +1,13 @@
 The player list
 ---------------
 1. Chow
-2.
-3.
-4.
-5.
-6.
+2. MJ
+3. Kobe
+4. James
+5. Curry
+6. Harden
+
+Referees
+--------
+1. Larry Bird
+2. Kareem Abdul Jabbra
